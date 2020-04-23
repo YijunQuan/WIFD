@@ -1,3 +1,4 @@
+![Warwick_banner](Warwick_banner.jpg)
 # WIFD (Warwick Image Forensics Dataset)
 WIFD is a dataset dedicated for image source device fingprinting analysis. The collection of images are from 14 different cameras and the images are taken with special considerations on camera exposure parameter settings (ISO speed, exposure time and aperture size). The collection of the images can be used to study the different parameters' impact and the influence from multi-image merging algorithms' influence on source device fingerprinting.
 
