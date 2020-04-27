@@ -6,10 +6,12 @@ For a more detailed descrpition of the dataset, please have a look at the arxiv 
 To use this dataset, please cite this paper:
      ***'Y. Quan, C.-T. Li, Y. Zhou, and L. Li, "Warwick Image Forensics Dataset for Device Fingerprinting in Multimedia Forensics," in 2020 IEEE International Conference on Multimedia and Expo, July 2020'***
 
-The folder structure of the dataset is shown below:
-
-![dataset_structure](folder_structure.jpg)
-
 The JPEG images will be soon downloadable from https://www.dcs.warwick.ac.uk/dfdata/ (by the end of May, 2020)!
 
 Due to size of the RAW images, it is infeasible to download the images. For the use of RAW images, please contact Yijun Quan: Y.Quan@warwick.ac.uk
+
+For the ease of use, the folder structure of the dataset is shown below:
+
+![dataset_structure](folder_structure.jpg)
+
+
